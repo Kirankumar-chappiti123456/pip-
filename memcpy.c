@@ -45,4 +45,5 @@ int main()
 
 memcpy():1)the memcpy fun is coping one block of memory to another block of memory to source to destnation.
 	 2)and it is copying one by one character in the memory.
-	 3)and it does not check the overflow condition.	
+	 3)and it does not check the overflow condition.
+	4)always the dest is in the left side and the source in right side.
